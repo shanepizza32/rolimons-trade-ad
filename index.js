@@ -220,7 +220,7 @@ function generateAd() {
 
 //function for actually posting the trade ad
 async function postAd(sending, receiving) {
-  let allRTags = [];
+  let allRTags = ["any","upgrade","downgrade", "demand"];
   let allRIds = [];
 
   console.log("Giving:", sending, "requesting", receiving)
