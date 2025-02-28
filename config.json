@@ -1,7 +1,7 @@
 {
   "minItemValue": 10000,
   "maxItemValue": 100000000,
-  "smartAlgo": true,
+  "smartAlgo": false,
    "_comment": ["any","upgrade","downgrade", "demand"],
   "maxItemsSend": 4,
   "minItemsSend": 4,
