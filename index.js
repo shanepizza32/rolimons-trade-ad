@@ -248,7 +248,7 @@ async function postAd(sending, receiving) {
   let reqBody = {
     "player_id": parseFloat(robloxId),
     "offer_item_ids": sending,
-    "request_item_ids": allRIds,
+    "request_item_ids": [],
     "request_tags": result
   };
   console.log(reqBody)
