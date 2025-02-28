@@ -2,7 +2,7 @@
   "minItemValue": 10000,
   "maxItemValue": 100000000,
   "smartAlgo": true,
-   "_comment": "upgrade",
+   "_comment": "upgrade", "downgrade", "demand", "any",
   "maxItemsSend": 4,
   "minItemsSend": 4,
   "sendBlacklist": ["1323384", "26769281", "215718515", "24112667", "24114402", "1285307", "33070696", "398676450"],
