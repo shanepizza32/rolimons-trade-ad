@@ -247,7 +247,7 @@ async function postAd(sending, receiving) {
   /*{"player_id":55495469,"offer_item_ids":[382881237,2409285794,2409285794,362051899],"request_item_ids":[4390891467],"request_tags":["any","upgrade","downgrade"],"offer_robux":10000}*/
   let reqBody = {
     "player_id": parseFloat(robloxId),
-    "offer_item_ids": [33070696],
+    "offer_item_ids": [33070696, 24114402],
     "request_item_ids": [1744060292, 74891470, 215718515],
     "request_tags": ["adds"],
   };
