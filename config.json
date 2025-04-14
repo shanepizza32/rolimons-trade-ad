@@ -29,7 +29,7 @@
             "26769281"
         ],
         "minTotalSend": 55000,
-        "maxTotalSend": 100000000,
+        "maxTotalSend": 1850000,
         "minTotalRequestValue": 30000,
         "maxTotalRequestValue": 1000000000,
         "minUpgPercent": 7,
